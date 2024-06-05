@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="GB2312"?>
+<settings>
+  <taskName>腾讯时政新闻采集模板<taskSavePath>I:\虚拟学习团队\MySoft\ROST DetailMiner\ROST DetailMiner\RostWebInfoCollect\bin\Debug\腾讯时政新闻采集模板_date</taskSavePath><pageStartPostion>&lt;div class="mod newslist"&gt;</pageStartPostion><pageEndPostion>&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt; </pageEndPostion></taskName>
+  <TabCollectRules>
+    <tag>
+      <tagName>标题</tagName>
+      <startPostion>div id="C-Main-Article-QQ" class="mod-left"&gt;</startPostion>
+      <endPostion>&lt;div class="titBar"&gt;</endPostion>
+    </tag>
+    <tag>
+      <tagName>时间</tagName>
+      <startPostion>&lt;div class="info"&gt;</startPostion>
+      <endPostion>&lt;span class="infoCol"&gt;</endPostion>
+    </tag>
+    <tag>
+      <tagName>来源</tagName>
+      <startPostion>&lt;span class="where"&gt;</startPostion>
+      <endPostion>&lt;/span</endPostion>
+    </tag>
+    <tag>
+      <tagName>正文</tagName>
+      <startPostion>&lt;div id="Cnt-Main-Article-QQ"&gt;</startPostion>
+      <endPostion>&lt;div class="correlation-Article-QQ"&gt;</endPostion>
+    </tag>
+  </TabCollectRules>
+</settings>

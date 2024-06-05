@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB2312"?>
+<settings>
+  <taskName>2010-11-7 15-13-55<taskSavePath>J:\RostWebInfoCollect\RostWebInfoCollect\RostWebInfoCollect\RostWebInfoCollect\RostWebInfoCollect\bin\Debug\2010-11-7 15-13-55_date</taskSavePath><pageStartPostion></pageStartPostion><pageEndPostion></pageEndPostion></taskName>
+  <TabCollectRules>
+    <tag>
+      <tagName>标题</tagName>
+      <startPostion>&lt;font size="3"&gt;</startPostion>
+      <endPostion>&lt;/a&gt;&lt;/font&gt;&lt;br /&gt;</endPostion>
+    </tag>
+    <tag>
+      <tagName>摘要</tagName>
+      <startPostion>&lt;font size="-1"&gt;</startPostion>
+      <endPostion>&lt;br&gt;&lt;span</endPostion>
+    </tag>
+    <tag>
+      <tagName>字数时间</tagName>
+      <startPostion>&lt;br&gt;&lt;span class="fs"&gt;</startPostion>
+      <endPostion>&lt;a href="http://passport.baidu.com/?</endPostion>
+    </tag>
+  </TabCollectRules>
+</settings>

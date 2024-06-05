@@ -1,0 +1,8 @@
+2024/06/05-19:31:02.557 181c Reusing MANIFEST C:\Users\Administrator\Desktop\pa\MediaCrawler\browser_data\dy_user_data_dir\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/05-19:31:02.559 181c Recovering log #3
+2024/06/05-19:31:02.559 181c Level-0 table #3: started
+2024/06/05-19:31:02.568 181c Level-0 table #3: 26652 bytes OK
+2024/06/05-19:31:02.569 181c Recovering log #4
+2024/06/05-19:31:02.571 181c Reusing old log C:\Users\Administrator\Desktop\pa\MediaCrawler\browser_data\dy_user_data_dir\Default\Local Storage\leveldb/000004.log 
+2024/06/05-19:31:02.580 181c Delete type=0 #3
+2024/06/05-19:31:02.581 181c Delete type=2 #5

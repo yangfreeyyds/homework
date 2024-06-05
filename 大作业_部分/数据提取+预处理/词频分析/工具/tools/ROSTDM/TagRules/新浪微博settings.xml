@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="GB2312"?>
+<settings>
+  <taskName>新浪微博<taskSavePath>I:\虚拟学习团队\MySoft\ROST DetailMiner\ROST DetailMiner\RostWebInfoCollect\bin\Debug\新浪微博_date</taskSavePath><pageStartPostion></pageStartPostion><pageEndPostion></pageEndPostion></taskName>
+  <TabCollectRules>
+    <tag>
+      <tagName>微博文</tagName>
+      <startPostion>&lt;div class="MIB_assign_c MIB_txtbl"&gt;</startPostion>
+      <endPostion>&lt;span</endPostion>
+    </tag>
+  </TabCollectRules>
+</settings>

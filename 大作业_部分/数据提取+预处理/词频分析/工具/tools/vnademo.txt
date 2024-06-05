@@ -1,0 +1,4 @@
+loadvna C:\Users\Administrator\Desktop\pa\数据提取+预处理\词频分析\result--语义网络.vna
+runlayout
+egomeasures
+centralitymeasures undirected

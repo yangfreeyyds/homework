@@ -1,0 +1,8 @@
+2024/06/05-19:54:46.633 3a88 Creating DB C:\Users\Administrator\Desktop\pa\MediaCrawler\browser_data\bili_user_data_dir\Default\Local Storage\leveldb since it was missing.
+2024/06/05-19:54:46.650 3a88 Reusing MANIFEST C:\Users\Administrator\Desktop\pa\MediaCrawler\browser_data\bili_user_data_dir\Default\Local Storage\leveldb/MANIFEST-000001
+2024/06/05-19:54:52.837 46c0 Level-0 table #5: started
+2024/06/05-19:54:52.844 46c0 Level-0 table #5: 18229 bytes OK
+2024/06/05-19:54:52.852 46c0 Delete type=0 #3
+2024/06/05-19:56:32.964 46c0 Level-0 table #7: started
+2024/06/05-19:56:32.986 46c0 Level-0 table #7: 18584 bytes OK
+2024/06/05-19:56:32.995 46c0 Delete type=0 #4
